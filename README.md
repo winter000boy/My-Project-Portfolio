@@ -80,5 +80,4 @@ This repository features projects developed using a variety of technologies and 
 ## 🛠️ How to Use This Repository
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/winter000boy/my-projects-portfolio.git
-   cd my-projects-portfolio
+   https://github.com/winter000boy/My-Project-Portfolio.git
