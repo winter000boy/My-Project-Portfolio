@@ -23,6 +23,7 @@ Explore my projects leveraging cutting-edge **AI** and **Machine Learning techni
 - [Crop Yield Prediction](https://github.com/winter000boy/Crop-Yeild-Prediction.git): Leverage **data analysis and prediction algorithms** to forecast agricultural yields.
 - [Crop Recommendation System](https://github.com/winter000boy/Crop-Recommendation-System.git): An **ML-powered tool for suggesting optimal crops for farmers**.
 - [Forest Cover Type Prediction](https://github.com/winter000boy/Forest-Cover-Type-Prediction.git): Classify forest cover types using **geospatial and environmental data**.
+- [Music Recommendation System](https://github.com/winter000boy/Music-Recommendation.git): recommends Music based on current songs **Strong Recommendation System**.
 
 > ### Hashtags: 
 > **#AIProjects #MLModels #DataScience #AgriTech #PredictiveAnalytics**
